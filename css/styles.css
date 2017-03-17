@@ -5,7 +5,12 @@ body{
 nav{
   background-color: #ff804e;
   width:9%;
-  height: vh;
+  height: 100%vh;
+}
+
+nav ul li{
+  list-style: none;
+
 }
 
 .icon{
