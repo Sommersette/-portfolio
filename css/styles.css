@@ -3,7 +3,7 @@ body{
 }
 
 nav{
-  background-color: #ff4900;
+  background-color: #ff804e;
   width:9%;
   height: vh;
 }
@@ -12,7 +12,31 @@ nav{
 
 }
 
+img{
+  width: 25%;
+}
+
+#diver{
+  position: relative;
+}
+
+#monitory{
+
+}
+
 #porfolio{
   list-style: none;
   text-decoration: none;
+}
+
+.scale{
+  width: 30%;
+}
+
+#lightblue{
+  padding: ;
+}
+
+#bluebox{
+  background-color: 0675e1;
 }
