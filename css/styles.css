@@ -2,19 +2,32 @@ body{
   background-color: #00e482;
 }
 
-nav{
-  background-color: #ff804e;
-  width:9%;
-  height: 100%vh;
+.lightblue{
+  background-color: #0675e1;
+  padding: 10px;
+  margin: 1px;
+  border: 1px;
+  border-color: #4F98DE;
 }
 
 nav ul li{
   list-style: none;
-
 }
 
-.icon{
+ul li{
+  list-style: none;
+}
 
+ol li{
+  list-style-type: lower-roman;
+}
+
+.col-sm-2{
+  height:100vh;
+  background-color: #ff804e;
+  text-decoration: none;
+  text-align: left;
+  /*margin-top: -20px;*/
 }
 
 img{
@@ -23,10 +36,14 @@ img{
 
 #diver{
   position: relative;
+  width: 30%;
+  left: 25%;
 }
 
-#monitory{
-
+#monitor{
+  position: relative;
+  bottom:60%;
+  left: 40%;
 }
 
 #porfolio{
@@ -34,14 +51,6 @@ img{
   text-decoration: none;
 }
 
-.scale{
-  width: 30%;
-}
-
-#lightblue{
-  padding: ;
-}
-
-#bluebox{
-  background-color: 0675e1;
+.bluebox{
+  background-color: 0675e1 !important;
 }
